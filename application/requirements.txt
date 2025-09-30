@@ -4,7 +4,7 @@ beautifulsoup4==4.12.3
 celery==5.3.6
 dataclasses-json==0.6.7
 docx2txt==0.8
-duckduckgo-search==6.3.0
+duckduckgo-search==8.1.1
 ebooklib==0.18
 elastic-transport==8.15.0
 elasticsearch==8.15.1
